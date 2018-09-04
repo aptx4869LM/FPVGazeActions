@@ -8,37 +8,10 @@ You can download our paper [here](https://www.dropbox.com/s/8rjirv5s3q232so/eccv
 
 You are welcomed to use our [dataset](http://www.cbi.gatech.edu/fpv/).
 
-You can use the [editor on GitHub](https://github.com/aptx4869LM/FPVGazeActions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you find our paper useful, please consider cite our work.
 
+More details to come!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aptx4869LM/FPVGazeActions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Yin Li: yli440@gatech.edu
+Miao Liu: mliu328@gatech.edu
