@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## In the Eye of Beholder: Joint Learning of Gaze and Actions in First Person Video
 
 You can use the [editor on GitHub](https://github.com/aptx4869LM/FPVGazeActions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
