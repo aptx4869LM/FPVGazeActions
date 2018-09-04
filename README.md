@@ -8,7 +8,7 @@ You can download our paper [here](https://www.dropbox.com/s/8rjirv5s3q232so/eccv
 
 You are welcomed to use our [dataset](http://www.cbi.gatech.edu/fpv/).
 
-If you find our paper useful, please consider cite our work.
+If you find our paper useful, please consider to cite our work.
 
 More details to come!
 
