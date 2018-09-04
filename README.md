@@ -8,7 +8,7 @@ You are welcomed to use our [dataset](http://www.cbi.gatech.edu/fpv/).
 
 You can use the [editor on GitHub](https://github.com/aptx4869LM/FPVGazeActions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-![Image](src)
+![Image](https://github.com/aptx4869LM/FPVGazeActions/blob/master/fpv_overview.pdf)
 
 ### Markdown
 
