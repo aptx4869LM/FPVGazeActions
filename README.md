@@ -14,4 +14,5 @@ More details to come!
 
 ### Contact
 Yin Li: yli440@gatech.edu
+
 Miao Liu: mliu328@gatech.edu
